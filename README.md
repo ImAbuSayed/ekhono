@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ekhono/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ekhono](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ekhono/) |
+| **Get License** | [Get a Licensing Quote for Ekhono](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ekhono/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit a45f3c7660b78adb5e42d789e86a5266d14f6f98
+> অন্ধকারে একলা আমি মাতাল হয়ে চলি
+> তীব্র এই নেশার ঘোরে তোমার শরীর খুঁজি
+> তোমার গভীর প্রেমের আগুনে পুড়তে আমি বলি
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
