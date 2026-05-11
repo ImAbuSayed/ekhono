@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ekhono
+
+This log tracks the cryptographic history and versioning for the song **Ekhono** (ekhono).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T07:03:58.281592 | `v1` | `23d85ad647de970bcdf56b47b8c17224574b5ccd42cdfe093849b5977c063a05` | `f905bbde00ff52bd0b695c0687e93f992eefd517a9e06b922e4b7fd501a9ab6d` | `2026-05-11_ekhono-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

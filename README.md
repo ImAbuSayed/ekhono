@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ekhono/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ekhono](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ekhono/) |
+| **Get License** | [Request Licensing for Ekhono](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ekhono/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `23d85ad647de970bcdf56b47b8c17224574b5ccd42cdfe093849b5977c063a05` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
